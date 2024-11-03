@@ -1,5 +1,13 @@
 function Home() {
-  return <h1>Eu amo você Jenyfer! Se você também me ama, da uma risadinha </h1>;
+  return (
+    <h1>
+      Esse site será para encontrar produtos que você não sabe o nome e/ou não
+      sabe onde comprar
+      <br />
+      Será composto por várias abas conforme o tipo do produto e os outros
+      usuários poderão ajudar a encontrar.
+    </h1>
+  );
 }
 
 function teste2() {
